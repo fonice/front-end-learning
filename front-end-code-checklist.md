@@ -1,5 +1,5 @@
 # 前端代码审查清单
-
+> 原作者 https://github.com/yujiangshui/front-end-code-checklist
 
 ## 是什么？为什么？
 
